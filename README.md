@@ -1,4 +1,4 @@
-# PRD# PRD: RECAST+ (Advanced Query Rewriting with Dual-CLS & Windowing)
+# KONG PRD: RECAST+ (Advanced Query Rewriting with Dual-CLS & Windowing)
 
 ### 1. 문서 정보
 
